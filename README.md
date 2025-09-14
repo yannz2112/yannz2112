@@ -1,6 +1,6 @@
 # 👋 Hi, I'm yannz!
 
-🎮 **Web Developer | Discord Bot Builder**
+🌐 **Web Developer | Discord Bot Builder**
 
 Selamat datang di portofolio GitHub saya!  
 Saya suka membangun project mulai dari **website sederhana**, **bot Discord**, hingga **sistem backend**.  
@@ -10,7 +10,7 @@ Saya suka membangun project mulai dari **website sederhana**, **bot Discord**, h
 ## 🚀 About Me
 - 🔭 Sedang mengerjakan: **Bot Discord dan web**
 - 🌱 Belajar lebih dalam: **Python, PHP, dan C++**
-- 💬 Tertarik diskusi tentang: **Web Development, Roleplay Game, Food**
+- 💬 Tertarik diskusi tentang: **Web Development, Roleplay Game, Makanan**
 - 🎯 Goal: Membuat bot Discord yang berguna bagi semua orang  
 
 ---
@@ -39,9 +39,5 @@ Saya suka membangun project mulai dari **website sederhana**, **bot Discord**, h
 
 ## 📫 Contact Me
 - 📧 Email: **noemail@example.com**
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/)
-- 🎥 YouTube: [Your Channel](https://youtube.com/)
-
----
-
-⭐️ Feel free to check out my repositories and drop a star if you like them!
+- 🐦 Tiktok: [@no_account](https://twitter.com/)
+- 🎥 YouTube: [No account](https://youtube.com/)
