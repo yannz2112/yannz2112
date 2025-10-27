@@ -1,0 +1,26 @@
+echo off
+set /p answer="whats your username windows?: "
+cd C:/Users/%answer%/Documents/
+mkdir Visual_Studio_Code
+cd Visual_Studio_Code
+mkdir Front_End
+cd Front_End
+echo.> index.html
+mkdir Styles
+cd Styles
+echo.> styles.css
+cd ../
+mkdir Script
+cd Script
+echo.> script.js
+cd ../
+cd ../
+mkdir Back_End
+cd Back_End
+mkdir sql
+cd sql
+echo.> data.sql
+cd ../
+echo.> name.php
+echo.> name.js
+cd ../
