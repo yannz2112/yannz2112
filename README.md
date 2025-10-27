@@ -1,4 +1,4 @@
-# 👋 Hi, I'm yannz!
+# 👋 Haii, saya yannz!
 
 🌐 **Web Developer | Discord Bot Builder**
 
