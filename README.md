@@ -8,10 +8,10 @@ Saya suka membangun project mulai dari **website sederhana**, **bot Discord**, h
 ---
 
 ## 🚀 About Me
-- 🔭 Sedang mengerjakan: **Bot Discord dan web**
-- 🌱 Belajar lebih dalam: **Python, PHP, dan C++**
-- 💬 Tertarik diskusi tentang: **Web Development, Roleplay Game, Makanan**
-- 🎯 Goal: Membuat bot Discord yang berguna bagi semua orang  
+- 🔭 Sedang mengerjakan: **Tools Windows**
+- 🌱 Belajar lebih dalam: **Python, PHP, dan JavaScript**
+- 💬 Tertarik diskusi tentang: **Web Development, Motorsports**
+- 🎯 Goal: Menjadi Sodtware Engginer profesional  
 
 ---
 
