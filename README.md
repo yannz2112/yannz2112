@@ -11,7 +11,7 @@ Saya suka membangun project mulai dari **website sederhana**, **bot Discord**, h
 - 🔭 Sedang mengerjakan: **Tools Windows**
 - 🌱 Belajar lebih dalam: **Python, PHP, dan JavaScript**
 - 💬 Tertarik diskusi tentang: **Web Development, Motorsports**
-- 🎯 Goal: Menjadi Sodtware Engginer profesional  
+- 🎯 Goal: Menjadi Software Engginer profesional  
 
 ---
 
