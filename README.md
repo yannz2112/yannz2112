@@ -39,5 +39,5 @@ Saya suka membangun project mulai dari **website sederhana**, **bot Discord**, h
 
 ## 📫 Contact Me
 - 📧 Email: **noemail@example.com**
-- 🐦 Tiktok: [@no_account](https://twitter.com/)
+- 🐦 Tiktok: [@byvnzz1](https://tiktok.com/byvnzz1)
 - 🎥 YouTube: [No account](https://youtube.com/)
