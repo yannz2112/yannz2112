@@ -1,4 +1,4 @@
-# 👋 Haii, saya yannz!
+# 👋 Haii, saya Bian!
 
 🌐 **Web Developer | Python Tools | Windows Tools**
 
@@ -9,10 +9,8 @@ Saya suka membangun project mulai dari **website sederhana**, **bot Discord**, h
 
 ## 🚀 About Me
 - 🔭 Sedang mengerjakan: **Web**
-- 🌱 Belajar lebih dalam: **Python, PHP, dan JavaScript**
+- 🌱 Belajar lebih dalam: **Python, PHP, dan SQL**
 - 💬 Tertarik diskusi tentang: **Web Development, Motorsports**
-- 🎯 Goal: Menjadi Software Engginer profesional  
-
 ---
 
 ## 🤖 Discord Bots
@@ -37,6 +35,6 @@ Saya suka membangun project mulai dari **website sederhana**, **bot Discord**, h
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **noemail@example.com**
-- 🐦 Tiktok: [@byvnzz1](https://www.tiktok.com/@byvnzz1?_t=ZS-90z0fyfxm7g&_r=1)
+- 📧 Email: **noemail@gmail.com**
+- 🐦 Tiktok: [@no](https://www.tiktok.com/)
 - 🎥 YouTube: [No account](https://youtube.com/)
