@@ -1,0 +1,31 @@
+echo off
+color 2
+:menu
+echo =================================================
+echo        WELCOME TO WINDOWS TWEAKS MENU
+echo                     V3.0.0
+echo =================================================
+echo                      MENU
+echo  1.Disabled Services        4.Debloat
+echo  2.Optimization Regedit     5.All
+echo  3.Create restore point     6.Exit
+set /p selects="Select : "
+
+if "%selects%"=="1" goto services
+if "%selects%"=="2" goto regedit
+if "%selects%"=="3" goto restorepoint
+if "%selects%"=="4" goto debloat
+if "%selects%"=="5" goto alltweaks
+if "%selects%"=="6" exit
+
+:services
+echo hi
+goto menu
+
+:regedit
+
+:restorepoint
+
+:debloat
+
+:alltweaks
