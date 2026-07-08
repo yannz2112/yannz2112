@@ -1,0 +1,92 @@
+import PIL
+from PIL import Image
+import time
+
+def tool1():
+    print("INFORMATION! LIMIT CONVERT IMAGES TO PDF ARE 5 IMAGES")
+    usr11 = input("Enter the path of image location: ")
+    ask1 = input("Do you want to input one file again? (y/n): ")
+    if ask1 == "y":
+        usr12 = input("Enter the path of image location: ")
+        ask2 = input("Do you want to input one file again? (y/n): ")
+        if ask2 == "y":
+            usr13 = input("Enter the path of image location: ")
+            ask3 = input("Do you want to input one file again? (y/n): ")
+            if ask3 == "y":
+                usr14 = input*("Enter the path of image location: ")
+                ask4 = input("Do you want to input one file again? (y/n): ")
+                if ask4 == "y":
+                    usr15 = input("Enter the path of image location: ")
+                    print('Processing image...') == time.sleep(2)
+                    img1 = Image.open(usr11)
+                    img2 = Image.open(usr12)
+                    img3 = Image.open(usr13)
+                    img4 = Image.open(usr14)
+                    img5 = Image.open(usr15)
+                    img1.save("result.pdf", "PDF", resolution=100.0, save_all=True, append_images=[img2, img3, img4, img5])
+                    print("Images converted to PDF successfully! Saved as result.pdf")
+                    exit()
+                elif ask4 == "n":
+                    print('Processing image...') == time.sleep(2)
+                    img11 = Image.open(usr11)
+                    img12 = Image.open(usr12)
+                    img13 = Image.open(usr13)
+                    img14 = Image.open(usr14)
+                    img11.save("result.pdf", "PDF", resolution=100.0, save_all=True, append_images=[img12, img13, img14])
+                    print("Images converted to PDF successfully! Saved as result.pdf")
+                    exit()
+                else:
+                    print("Fail input!, we will convert 4 images!")
+                    print('Processing image...') == time.sleep(2)
+                    img11 = Image.open(usr11)
+                    img12 = Image.open(usr12)
+                    img13 = Image.open(usr13)
+                    img14 = Image.open(usr14)
+                    img11.save("result.pdf", "PDF", resolution=100.0, save_all=True, append_images=[img12, img13, img14])
+                    print("Images converted to PDF successfully! Saved as result.pdf")
+                    exit()
+            elif ask3 == "n":
+                print('Processing image...') == time.sleep(2)
+                img111 = Image.open(usr11)
+                img112 = Image.open(usr12)
+                img113 = Image.open(usr13)
+                img111.save("result.pdf", "PDF", resolution=100.0, save_all=True, append_images=[img112, img113])
+                print("Images converted to PDF successfully! Saved as result.pdf")
+                exit()
+            else:
+                print("Fail input!, we will convert 3 images!")
+                print('Processing image...') == time.sleep(2)
+                img111 = Image.open(usr11)
+                img112 = Image.open(usr12)
+                img113 = Image.open(usr13)
+                img111.save("result.pdf", "PDF", resolution=100.0, save_all=True, append_images=[img112, img113])
+                print("Images converted to PDF successfully! Saved as result.pdf")
+                exit()
+        elif ask2 == "n":
+            print("Processing image....") == time.sleep(2)
+            img1111 = Image.open(usr11)
+            img1112 = Image.open(usr12)
+            img1111.save("result.pdf", "PDF", resolution=100.0, save_all=True, append_images=[img1112])
+            print("Images converted to PDF successfully! saved as result.pdf")
+            exit()
+        else:
+            print("Fail input!, we will convert 3 images!")
+            print("Processing image....") == time.sleep(2)
+            img1111 = Image.open(usr11)
+            img1112 = Image.open(usr12)
+            img1111.save("result.pdf", "PDF", resolution=100.0, save_all=True, append_images=[img1112])
+            print("Images converted to PDF successfully! saved as result.pdf")
+            exit()
+    elif ask1 == 'n':
+        print("Proccessing image.....") == time.sleep(2)
+        img11111 = Image.open(usr11)
+        img11111.save("result.pdf", "PDF", resolution=100.0, save_all=True)
+        print("Image converted to PDF successfully! saved as result.pdf")
+        exit()
+    else:
+        print("Fail input! we will converting one image to PDF")
+        print("Proccessing image.....") == time.sleep(2)
+        img11111 = Image.open(usr11)
+        img11111.save("result.pdf", "PDF", resolution=100.0, save_all=True)
+        print("Image converted to PDF successfully! saved as result.pdf")
+        exit()
